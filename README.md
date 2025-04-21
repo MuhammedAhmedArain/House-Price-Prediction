@@ -1,2 +1,22 @@
-# House-Price-Prediction
-A Python-based House Price Prediction app that uses a Random Forest Regression model trained on the California Housing Dataset. The project features a graphical user interface (GUI) built with Tkinter, allowing users to input house-related parameters and instantly predict house prices.
+# 🏠 House Price Predictor
+
+A Python-based application that predicts California house prices using a Random Forest Regression model and a user-friendly Tkinter interface.
+
+## 📊 Features
+- Uses **California Housing Dataset** from `sklearn.datasets`
+- Machine Learning model: **Random Forest Regressor**
+- Simple **Tkinter-based GUI** for interactive predictions
+
+## 🛠️ Technologies
+- Python 3.x
+- scikit-learn
+- pandas
+- numpy
+- Tkinter
+- Matplotlib
+
+## 📦 Installation
+
+1. Clone the repository:
+   ```bash
+   https://github.com/MuhammedAhmedArain/House-Price-Prediction/
